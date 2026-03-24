@@ -5,6 +5,7 @@ layout: default
 # From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs
 
 **Date:** TBD
+
 **Location:** TBD
 
 ## Session Description
@@ -31,4 +32,5 @@ Please check back for a full schedule and list of panelists.
 - Serena Booth, Brown University
 - Ro Encarnación, University of Pennsylvania
 - Danaé Metaxa, University of Pennsylvania
+- Nari Johnson, Carnegie Mellon University
 
