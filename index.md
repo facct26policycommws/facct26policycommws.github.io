@@ -6,7 +6,7 @@ layout: default
 
 **Date:** TBD
 
-**Location:** TBD
+**Location:** Montréal, Canada and Online
 
 ## Session Description
 
