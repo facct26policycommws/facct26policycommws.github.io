@@ -2,13 +2,22 @@
 layout: default
 ---
 
-# From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs
+<header class="site-header">
+  <div class="header-inner">
+    <p class="header-label">FAccT 2026 CRAFT Session</p>
+    <h1>From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs</h1>
+    <p class="header-meta">
+      <span>Date: TBD</span>
+      <span class="separator" aria-hidden="true">·</span>
+      <span>Montréal, Canada and Online</span>
+    </p>
+  </div>
+</header>
 
-**Date:** TBD
+<main id="main-content">
+<div class="content-body" markdown="1">
 
-**Location:** Montréal, Canada and Online
-
-## Session Description
+## Session Description {#session-description}
 
 Research in the FAccT community often engages directly with questions of real-world impact in sociotechnical systems. These findings are typically communicated through academic publications at FAccT or similar venues, which are integral to advancing interdisciplinary knowledge and allow researchers to share and build on each other’s work. At the same time, this work is often not accessible to affected communities, policymakers, and practitioners who could act on these findings, limiting its potential to inform policy and practice. As a result, even policy-relevant research may have limited influence on real-world decision-making without additional forms of engagement with these critical stakeholders.
 
@@ -23,15 +32,17 @@ The session will also include perspectives from speakers with experience transla
 By the end of the session, participants will have a concrete starting point for a policy brief and a clearer understanding of how to translate FAccT research into forms that can inform policy and practice. More broadly, the workshop aims to build capacity within the community to engage more effectively with policy processes while maintaining the rigor and values that define FAccT research.
 
 
-## Schedule
+## Schedule {#schedule}
 
 This workshop session will be run for approximately 2 hours. 
 Please check back for a full schedule and list of panelists.
 
-## Organizers
+## Organizers {#organizers}
 
 - Serena Booth, Brown University
 - Ro Encarnación, University of Pennsylvania
 - Danaé Metaxa, University of Pennsylvania
 - Nari Johnson, Carnegie Mellon University
 
+</div>
+</main>
