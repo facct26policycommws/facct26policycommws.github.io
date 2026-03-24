@@ -23,7 +23,7 @@ By the end of the session, participants will have a concrete starting point for 
 
 ## Schedule
 
-TBD
+Please check back for a full schedule and list of panelists.
 
 ## Organizers
 
