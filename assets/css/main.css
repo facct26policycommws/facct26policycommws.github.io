@@ -158,3 +158,29 @@ h2 {
 p {
   margin: 1rem 0;
 }
+
+/* Scroll to top */
+.scroll-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: #1a1510;
+  color: #c8a96e;
+  border: 1px solid #c8a96e;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+  z-index: 200;
+}
+
+.scroll-top.visible {
+  opacity: 1;
+}
+
+.scroll-top:hover {
+  background-color: #c8a96e;
+  color: #1a1510;
+}

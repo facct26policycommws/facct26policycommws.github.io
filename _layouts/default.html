@@ -12,5 +12,12 @@
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
   {{ content }}
+  <button class="scroll-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Scroll to top">↑</button>
+  <script>
+    const btn = document.querySelector('.scroll-top');
+    window.addEventListener('scroll', () => {
+      btn.classList.toggle('visible', window.scrollY > 300);
+    });
+  </script>
 </body>
 </html>
