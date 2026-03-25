@@ -43,6 +43,7 @@ Please check back for a full schedule and list of panelists.
 - Ro Encarnación, University of Pennsylvania
 - Danaé Metaxa, University of Pennsylvania
 - Nari Johnson, Carnegie Mellon University
+- Cynthia Bailey, Stanford University
 
 </div>
 </main>
