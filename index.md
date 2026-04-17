@@ -4,7 +4,7 @@ layout: default
 
 <header class="site-header">
   <div class="header-inner">
-    <p class="header-label">FAccT 2026 CRAFT Session</p>
+    <p class="header-label">FAccT 2026 Tutorial</p>
     <h1>From FAccT to Policy Impact: Translating Research into Actionable Policy Briefs</h1>
     <p class="header-meta">
       <span>Date: TBD</span>
